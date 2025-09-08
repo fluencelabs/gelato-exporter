@@ -5,9 +5,8 @@
   "packages": {
     ".": {
       "release-type": "simple",
-      "extra-files": [
-        "kustomize/base/deployment.yml"
-      ]
+      "extra-files": ["kustomize/base/deployment.yml"]
+      
     }
   }
 }
