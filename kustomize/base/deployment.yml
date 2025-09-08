@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: fluence-network-exporter
-          image: fluence/fluence-network-exporter
+          image: docker.fluence.dev/fluence-network-exporter:main-f1fcf62-34-1
           ports:
             - name: http
               containerPort: 8001
