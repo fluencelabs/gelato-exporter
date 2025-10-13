@@ -21,3 +21,6 @@ images:
 - name: fluence/fluence-network-exporter
   newName: docker.fluence.dev/fluence-network-exporter
   newTag: main-f1fcf62-34-1
+
+patches:
+- path: deployment.yml

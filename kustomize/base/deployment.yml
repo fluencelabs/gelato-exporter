@@ -31,12 +31,6 @@ spec:
                 secretKeyRef:
                   name: fluence-network-exporter-secrets
                   key: rpc_url
-          resources:
-            requests:
-              cpu: 50m
-              memory: 128Mi
-            limits:
-              memory: 256Mi
           volumeMounts:
             - name: config
               mountPath: /config

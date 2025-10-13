@@ -16,3 +16,6 @@ configMapGenerator:
 
 generatorOptions:
   disableNameSuffixHash: true
+
+patches:
+- path: deployment.yml
