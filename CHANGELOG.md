@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.5.3](https://github.com/fluencelabs/fluence-network-exporter/compare/v3.5.2...v3.5.3) (2026-05-12)
+
+
+### Bug Fixes
+
+* migrate ExternalSecret manifest from external-secrets.io/v1beta1 to v1 ([b815479](https://github.com/fluencelabs/fluence-network-exporter/commit/b815479fcccea950b625649e65fc118b39e40521))
+
 ## [3.5.2](https://github.com/fluencelabs/fluence-network-exporter/compare/v3.5.1...v3.5.2) (2025-03-29)
 
 
